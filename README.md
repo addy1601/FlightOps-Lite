@@ -1,5 +1,6 @@
 
 # ✈️ FlightOps Lite
+🌐 **[Live Demo](https://flightopsliteaddy1601.streamlit.app/)**
 
 ![FlightOps Lite Dashboard](screenshots/dashboard.png) 
 
